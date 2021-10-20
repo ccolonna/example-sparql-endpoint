@@ -1,0 +1,78 @@
+
+		Wed Oct 20 2021
+12:23:58 OpenLink Virtuoso Universal Server
+12:23:58 Version 07.20.3233-pthreads for Linux as of Oct 13 2021
+12:23:58 uses OpenSSL 1.1.1l  24 Aug 2021
+12:23:58 uses parts of PCRE, Html Tidy
+12:23:58 SQL Optimizer enabled (max 1000 layouts)
+12:23:59 Compiler unit is timed at 0.000383 msec
+12:24:02 Checkpoint started
+12:24:02 Roll forward started
+12:24:02 Roll forward complete
+12:24:02 Checkpoint started
+12:24:02 Checkpoint finished, log reused
+12:24:02 Checkpoint started
+12:24:02 Checkpoint finished, log reused
+12:24:03 Checkpoint started
+12:24:03 Checkpoint finished, log reused
+12:24:03 Checkpoint started
+12:24:03 Checkpoint finished, log reused
+12:24:03 Checkpoint started
+12:24:03 Checkpoint finished, log reused
+12:24:03 PL LOG: Installing Virtuoso Conductor version 1.00.8823 (DAV)
+12:24:03 PL LOG: Installing with dependencies Virtuoso Conductor version 1.00.8823/2021-10-13 09:17 (DAV)
+12:24:03 Checkpoint started
+12:24:03 Checkpoint finished, log reused
+12:24:07 Checkpoint started
+12:24:07 Checkpoint finished, log reused
+12:24:07 PL LOG: Installation with dependencies complete
+12:24:07 Checkpoint started
+12:24:07 Checkpoint finished, log reused
+12:24:09 HTTP/WebDAV server online at 8890
+12:24:09 Server online at 1111 (pid 16)
+12:24:09 Server received signal 15
+12:24:09 Initiating quick shutdown
+12:24:09 Server shutdown complete
+
+		Wed Oct 20 2021
+12:24:11 OpenLink Virtuoso Universal Server
+12:24:11 Version 07.20.3233-pthreads for Linux as of Oct 13 2021
+12:24:11 uses OpenSSL 1.1.1l  24 Aug 2021
+12:24:11 uses parts of PCRE, Html Tidy
+12:24:11 Database version 3126
+12:24:11 SQL Optimizer enabled (max 1000 layouts)
+12:24:12 Compiler unit is timed at 0.000135 msec
+12:24:13 Roll forward started
+12:24:13     9 transactions, 2075 bytes replayed (100 %)
+12:24:13 Roll forward complete
+12:24:13 Checkpoint started
+12:24:13 Checkpoint finished, log reused
+12:24:15 HTTP/WebDAV server online at 8890
+12:24:15 Server online at 1111 (pid 44)
+12:24:15 PL LOG: Loader started
+12:24:16 PL LOG: No more files to load. Loader has finished,
+12:24:16 Checkpoint started
+12:24:16 Checkpoint finished, log reused
+12:24:16 Server received signal 15
+12:24:16 Initiating quick shutdown
+12:24:16 Server shutdown complete
+
+		Wed Oct 20 2021
+12:24:16 OpenLink Virtuoso Universal Server
+12:24:16 Version 07.20.3233-pthreads for Linux as of Oct 13 2021
+12:24:16 uses OpenSSL 1.1.1l  24 Aug 2021
+12:24:16 uses parts of PCRE, Html Tidy
+12:24:16 Server received signal 17. Continuing with the default action for that signal.
+12:24:16 Database version 3126
+12:24:16 SQL Optimizer enabled (max 1000 layouts)
+12:24:17 Compiler unit is timed at 0.000140 msec
+12:24:18 Roll forward started
+12:24:18     3 transactions, 185 bytes replayed (100 %)
+12:24:18 Roll forward complete
+12:24:18 Checkpoint started
+12:24:18 Checkpoint finished, log reused
+12:24:20 HTTP/WebDAV server online at 8890
+12:24:20 Server online at 1111 (pid 1)
+12:26:06 Server received signal 15
+12:26:06 Initiating quick shutdown
+12:26:06 Server shutdown complete

@@ -1,0 +1,18 @@
+services:
+
+  # SPARQL Endpoint service
+
+  sparql:
+  # image with virtuoso
+    image: askomics/virtuoso
+    ports: 
+      # public port
+      - "8895:8890"
+
+    volumes:
+      - ./db:/data
+    container_name: example-sparql-endpoint
+    environment:
+      - DBA_PASSWORD=password
+      # enable/disable update
+      - SPARQL_UPDATE=true

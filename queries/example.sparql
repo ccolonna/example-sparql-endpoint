@@ -1,0 +1,5 @@
+PREFIX mp:    <https://w3id.org/polifonia/ON/musical-performance/>
+
+SELECT ?rec WHERE {
+    ?rec a mp:Recording .
+} LIMIT 10
